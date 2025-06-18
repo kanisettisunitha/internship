@@ -1,0 +1,82 @@
+ul
+{
+  list-style-type:circle;
+  list-style-position: inside;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url("C:\Users\venky\Pictures\Screenshots\Screenshot 2025-06-16 151217.png");
+    background-color:white;
+}
+a
+{
+text-decoration: none;
+color:black;
+padding: 10px;
+margin:10px;
+padding-bottom: 10px;
+padding-top:10px;
+}
+.ma
+{
+    display:flex;
+    flex-wrap: wrap;
+    align-content: center;
+    background-image: url('C:\Users\venky\Desktop\download.jpg');
+    background-size: cover;
+}
+.ja
+{
+    flex:1 1 500px;
+    box-shadow: 3px 6px 6px 6px rgb(0,0,0,0.5);
+    margin:20px;
+    padding:5px;
+    color:white;
+    background-color:#ff6f00;
+    
+    text-align: justify;
+}
+.we
+{
+    flex:1 1 500px;
+    background-color: rgb(12, 160, 246);
+    box-shadow: 3px 6px 6px 6px rgb(0,0,0,0.5);
+    margin:20px;
+    padding:5px;
+    color:white;
+    background-color:#007acc;
+    
+    text-align: justify;
+}
+.py
+{
+    flex:1 1 500px;
+    background-color:  #d20c79;
+    box-shadow: 3px 6px 6px 6px rgb(0,0,0,0.5);
+    margin:20px;
+    padding:5px;
+    color:white;
+    
+    text-align: justify;
+}
+.app
+{
+    flex:1 1 500px;
+    background-color: rgb(12, 160, 246);
+    box-shadow: 3px 6px 6px 6px rgb(0,0,0,0.5);
+    margin:20px;
+    padding:5px;
+    color:white;
+    background-color:#4CAF50;
+    
+    text-align: justify;
+}
+button
+{
+    background-color:rgb(230, 236, 230);
+     border-radius: 20px;
+     border: none;
+
+}
